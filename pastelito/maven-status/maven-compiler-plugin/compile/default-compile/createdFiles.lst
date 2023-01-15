@@ -1,0 +1,4 @@
+com\app\myportfolio\entity\Usuario.class
+com\app\myportfolio\service\UsuarioService.class
+com\app\myportfolio\MyportfolioApplication.class
+com\app\myportfolio\repository\UsuarioRepository.class
