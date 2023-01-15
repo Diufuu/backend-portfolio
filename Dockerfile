@@ -24,5 +24,7 @@ WORKDIR /
 
 FROM openjdk:17.0.1-jdk-slim
 EXPOSE 8080
-COPY target/myportfolio-0.0.1-SNAPSHOT.jar /app/myportfolio.jar
+COPY pastelito/myportfolio-0.0.1-SNAPSHOT.jar /app/myportfolio.jar
 CMD ["java", "-jar", "/app/myportfolio.jar"]
+
+# dsadsadsadsa
